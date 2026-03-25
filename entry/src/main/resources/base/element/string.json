@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "智慧农场助手应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "智慧农场助手主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "智慧农场助手"
+    },
+    {
+      "name": "product_type_vegetable",
+      "value": "蔬菜"
+    },
+    {
+      "name": "product_type_fruit",
+      "value": "水果"
+    }
+  ]
+}
